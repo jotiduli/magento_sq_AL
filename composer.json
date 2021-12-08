@@ -1,0 +1,19 @@
+{
+    "name": "shqip/sq_al",
+    "description": "Albanian language",
+	"authors": [{
+    "name": "Joti Duli",
+    "email": "joti@webin.al",
+    "role": "CTO"
+    }],
+    "config": {
+        "sort-packages": true
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    },
+    "version": "1.0"
+}
